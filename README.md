@@ -14,7 +14,9 @@ I followed the guide and managed to hack together this convertor file.
 
 Installation:
   1. Download TZE200_khx7nnka.js to your zigbee2mqtt config folder (usually /opt/zigbee2mqtt/data)
-  ![Screenshot 2023-01-06 at 16 54 58](https://user-images.githubusercontent.com/6130951/211059650-34c67dd2-9984-49f1-8ea9-3808f856ffdf.png)
+  ![Screenshot 2023-01-06 at 16 54 58]
+  (https://user-images.githubusercontent.com/6130951/211059650-34c67dd2-9984-49f1-8ea9-3808f856ffdf.png)
+  
   2. Edit Z2M's configuration.yaml to include
   
   external_converters:
